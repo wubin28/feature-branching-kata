@@ -1,5 +1,5 @@
 frame
-4 wheels for truck
+4 wheels for a big truck
 engine
 cockpit
 carriage
