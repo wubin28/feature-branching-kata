@@ -3,3 +3,4 @@ frame
 engine
 cockpit
 carriage
+carriage door
